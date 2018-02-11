@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Axel Segebrecht"
+subtitle: Life, Technology and the Universe
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
