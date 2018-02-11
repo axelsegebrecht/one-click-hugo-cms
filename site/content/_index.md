@@ -1,7 +1,7 @@
 ---
 title: "Axel Segebrecht"
 subtitle: Life, Technology and the Universe
-image: /img/home-jumbotron.jpg
+image: https://res.cloudinary.com/axel/image/upload/e_auto_saturation/v1518371545/DC2A203E-2ADB-4189-B4EA-EC3207839CB7_iakl5l.jpg
 blurb:
     heading: Why Kaldi?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."

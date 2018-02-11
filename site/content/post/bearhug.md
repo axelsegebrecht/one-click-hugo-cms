@@ -2,6 +2,7 @@
 title: Bearhug
 date: 2018-02-11T15:04:10.000Z
 description: >-
+ Once upon a time you’d see me clutching my trusty Filofax in one hand and cappuccino in the other. Today, not much has changed and the Filofax has been replaced by my iPhone 7plus and the cappuccino has become a cup of tea.
  
 image: https://res.cloudinary.com/axel/image/upload/v1518371047/8DCAF8F9-BB0B-4EB8-BC7F-BF1033A7D643_zmttmc.jpg
 ---
